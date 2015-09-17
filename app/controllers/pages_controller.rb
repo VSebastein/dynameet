@@ -1,9 +1,9 @@
 class PagesController < ApplicationController
   def home
-  	@titre = "Enhance your meetings"
+  	@title = "Enhance your meetings"
   end
 
   def contact
-  	@titre = "Contact"
+  	@title = "Contact"
   end
 end
