@@ -1,5 +1,10 @@
 == Dynameet
 
-Dynameet is a free service designed to improve meetings and presentation.
+Dynameet is a free service designed to improve meetings and presentations :
 
-This is homework for me to learn web development wwith Ruby on Rails
+- Let your public ask questions, recevive it on your smartphone, select and display on any screen
+- Create live polls to consult your audience
+
+This is homework for me to learn web development with Ruby on Rails
+
+Feel free to give your ideas
