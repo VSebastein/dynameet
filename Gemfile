@@ -8,6 +8,7 @@ gem 'sqlite3'
 # Rspec unit testing
 group :development do
   gem 'rspec-rails'
+  gem 'annotate'
 end
 
 group :test do
