@@ -9,5 +9,5 @@
 #
 
 class Like < ActiveRecord::Base
-	belongs_to :question
+	# belongs_to :question
 end
